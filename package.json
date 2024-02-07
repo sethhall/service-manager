@@ -1,0 +1,11 @@
+{
+  "name": "service-manager",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "yaml": "^2.3.1"
+  }
+}
